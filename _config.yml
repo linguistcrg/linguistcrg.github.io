@@ -20,7 +20,7 @@ author: Cristina Reguera Gómez
 ###############################################
 
 navbar-links:
-  About Me: ""
+  About Me: "aboutme"
   Experience: "experience"
   Publications: "publications"
   Presentations: "presentations"
