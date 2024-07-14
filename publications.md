@@ -3,20 +3,20 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://www.researchgate.net/profile/Cristina-Reguera-Gomez-2" target="_blank">ResearchGate profile</a>.
+You can also see my <a href="https://www.researchgate.net/profile/Cristina-Reguera-Gomez-2" target="_blank">ResearchGate profile</a>.
 <br />
 
 **To appear**
 
 - **Discourse Analysis on Social Media of Spanish-Speaking International Students in American Universities.**  
-  **Reguera-Gómez, C.** 
-  *LAELPG 2022 Proceedings*
+    **Reguera-Gómez, C.** 
+    *LAELPG 2022 Proceedings*
 
 **2023**
 
 - **The Effect of Stress on the Dissimilation of the Spanish Copulative Conjunction.**  
-  **Reguera-Gómez, C.** 
-  *LingUU Journal, 7(1)*  
+    **Reguera-Gómez, C.** 
+    *LingUU Journal, 7(1)*  
   [Paper](https://linguujournal.nl/download/the-effect-of-stress-on-the-dissimilation-of-the-spanish-copulative-conjunction/){: .btn}
 
 <!-- 
