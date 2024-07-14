@@ -4,7 +4,9 @@ title: Resume
 use-site-title: true
 ---
 
-<p>You can see my CV <a href="https://drive.google.com/file/d/1occwJEBH_MGrykaHyL4Asw-6K7cR-roq/view?usp=sharing">here</a>.</p>
-<p><em>Last updated: July 2024</em></p>
-
+<div id="pdf" style="height: 800px;"></div>
+<script src="/js/pdfobject.min.js"></script>
+<script>
+PDFObject.embed("https://github.com/linguistcrg/linguistcrg.github.io/blob/master/Resume-4.pdf", "#pdf");
+</script>
 
