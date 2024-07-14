@@ -9,15 +9,15 @@ You can also see my <a href="https://www.researchgate.net/profile/Cristina-Regue
 **To appear**
 
 - **Discourse Analysis on Social Media of Spanish-Speaking International Students in American Universities.**  
-    **Reguera-Gómez, C.** 
+    **Reguera-Gómez, C.**
     *LAELPG 2022 Proceedings*
 
 **2023**
 
 - **The Effect of Stress on the Dissimilation of the Spanish Copulative Conjunction.**  
     **Reguera-Gómez, C.** 
-    *LingUU Journal, 7(1)*  
-  [Paper](https://linguujournal.nl/download/the-effect-of-stress-on-the-dissimilation-of-the-spanish-copulative-conjunction/){: .btn}
+    *LingUU Journal, 7(1)*
+    [Paper](https://linguujournal.nl/download/the-effect-of-stress-on-the-dissimilation-of-the-spanish-copulative-conjunction/){: .btn}
 
 <!-- 
 **Non-refereed project reports:**
