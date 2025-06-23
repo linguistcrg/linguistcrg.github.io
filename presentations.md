@@ -66,6 +66,11 @@ Here is a list of my oral and poster presentations:
 
 **Posters**
 
+- **Empathy vs Neutrality: Designing and Evaluating a Natural Chatbot for the Healthcare Domain.**  
+  **Reguera-Gómez, C.**, de Boer, M.H.T. & Paperno, D.  
+  *Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)*  
+  3rd March 2025.
+
 - **Natural Chatbots: Designing an Intuitive Healthcare Conversational Agent by Studying the Role of Empathy in Generated Messages.**  
   **Reguera-Gómez, C.**, de Boer, M.H.T. & Paperno, D.  
   *34rd Meeting of Computational Linguistics in the Netherlands (CLIN)*  

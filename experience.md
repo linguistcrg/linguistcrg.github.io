@@ -7,12 +7,24 @@ use-site-title: true
 Here is a list of my relevant work experience:
 <br />
 
+### AI Engineer
+**Rabobank**  
+*Utrecht, Netherlands*  
+*Oct. 2024 – Present*  
+- Leading the transition of Rabobank’s customer support chatbot from a rule‑based system to a Generative AI architecture using LLMs.
+- Integrating fallback mechanisms and Retrieval‑Augmented Generation (RAG) pipelines to ensure factual accuracy and mitigate hallucinations.
+- Performing evaluations for accuracy, safety, and compliance in the banking context using internal datasets.
+- Developing prompt engineering strategies for domain‑specific tasks like financial advice and user intent classification.
+- **Achieved:** Optimised the GenAI aspect of the chatbot to deploy it in production. 80% of GenAI answers achieved a perfect score according to human evaluators, and 0% harmful answers were generated. 
+
+
+
 ### AI & Data Science Intern  
-**Department of Data Science, TNO**  
+**TNO**  
 *Randstad, Netherlands*  
-*Jan. 2024 – Present*  
+*Jan. 2024 – Sept. 2024*  
 - Created a natural conversational agent for the healthcare domain by researching the effect of empathetic language usage in the agent.
-- Evaluated LLMs with a Chain‐of‐Thought prompting framework and biomedical datasets.
+- Evaluated LLMs with a Chain‐of‐Thought prompting framework and medical datasets.
 - Built an LLM‐powered chatbot and evaluated its usability with a user experiment.
 - **Achieved:** Implemented a part of the Docker container (response generator) in the CHIP project (diabetes management chatbot), as part of TNO’s Hybrid AI team.  
 
@@ -21,7 +33,7 @@ Here is a list of my relevant work experience:
 ### Data Engineering Research Assistant  
 **Centre for Digital Humanities, Utrecht University**  
 *Utrecht, Netherlands*  
-*Sep. 2023 – Present*  
+*Sep. 2023 – Aug. 2024*  
 - Tested the software for the explorer and virtual research environment of the EDPOP project (European Dimensions of POPular print culture).
 - Implemented robust preprocessing pipelines to cleanse and integrate diverse datasets, ensuring data quality and consistency.
 - Developed and validated user cases to optimize functionality and usability of research tools.
