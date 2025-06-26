@@ -20,7 +20,7 @@ author: Cristina Reguera Gómez
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "/"
   Experience: "experience"
   Publications: "publications"
   Presentations: "presentations"
@@ -50,7 +50,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "c [dot] regueragomez [at] uu [dot] nl"
+  email: "cristina [dot] reguera [dot] gomez [at] rabobank [dot] nl"
   github: linguistcrg
   twitter: reguera_gomez
   linkedin: cristinaregomez
