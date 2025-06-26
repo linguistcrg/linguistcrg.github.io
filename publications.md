@@ -17,14 +17,14 @@ You can also see my <a href="https://www.researchgate.net/profile/Cristina-Regue
 - **Empathy vs Neutrality: Designing and Evaluating a Natural Chatbot for the Healthcare Domain.**  
     **Reguera-Gómez, C.**, de Boer, M.H.T. & Paperno, D. 
     *Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)*  
-    [Paper](https://aclanthology.org/2025.nodalida-1.55/){: .btn}
+    <span style="padding-left: 2em;">[Paper](https://aclanthology.org/2025.nodalida-1.55/)</span>
 
 **2023**
 
 - **The Effect of Stress on the Dissimilation of the Spanish Copulative Conjunction.**  
     **Reguera-Gómez, C.**  
     *LingUU Journal, 7(1)*  
-    [Paper](https://linguujournal.nl/download/the-effect-of-stress-on-the-dissimilation-of-the-spanish-copulative-conjunction/){: .btn}
+    <span style="padding-left: 2em;">[Paper](https://linguujournal.nl/download/the-effect-of-stress-on-the-dissimilation-of-the-spanish-copulative-conjunction/)</span>
 
 <!-- 
 **Non-refereed project reports:**
