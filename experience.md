@@ -11,11 +11,11 @@ Here is a list of my relevant work experience:
 **Rabobank**  
 *Utrecht, Netherlands*  
 *Oct. 2024 – Present*  
-- Leading the transition of Rabobank’s customer support chatbot from a rule‑based system to a Generative AI architecture using LLMs.
-- Integrating fallback mechanisms and Retrieval‑Augmented Generation (RAG) pipelines to ensure factual accuracy and mitigate hallucinations.
+- Integrating fallback mechanisms and Retrieval‑Augmented Generation (RAG) to customer service LLM to ensure factual accuracy and mitigate hallucinations.
+- Transitioning Rabobank’s customer support chatbot from rule‑based system to GenAI architecture using LLMs.
 - Performing evaluations for accuracy, safety, and compliance in the banking context using internal datasets.
-- Developing prompt engineering strategies for domain‑specific tasks like financial advice and user intent classification.
-- **Achieved:** Optimised the GenAI aspect of the chatbot to deploy it in production. 80% of GenAI answers achieved a perfect score according to human evaluators, and 0% harmful answers were generated. 
+- Improving critical production models through CI/CD methodology to avoid downtime.
+- **Achieved:** Transitioned customer service chatbot to near 100% GenAI answers. 80% of GenAI answers achieved a perfect score according to human evaluators, and 0% harmful answers were generated.
 
 
 
@@ -26,7 +26,7 @@ Here is a list of my relevant work experience:
 - Created a natural conversational agent for the healthcare domain by researching the effect of empathetic language usage in the agent.
 - Evaluated LLMs with a Chain‐of‐Thought prompting framework and medical datasets.
 - Built an LLM‐powered chatbot and evaluated its usability with a user experiment.
-- **Achieved:** Implemented a part of the Docker container (response generator) in the CHIP project (diabetes management chatbot), as part of TNO’s Hybrid AI team.  
+- **Achieved:** Implemented a part of the Docker container (response generator) in the CHIP project (diabetes management chatbot), as part of TNO’s Hybrid AI team. Resulting project published in peer‑reviewed journal.
 
 
 

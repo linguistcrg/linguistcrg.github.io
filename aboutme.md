@@ -9,7 +9,7 @@ subtitle: AI Engineer at Rabobank
 <p>In the past, I was an AI & Data Science Intern at 
 <a href="https://www.tno.nl/en/about-tno/organisation/units/information-communication-technology/data-science/">TNO</a> and Data Engineering Research Assistant for the <a href="https://cdh.uu.nl">Centre for Digital Humanities</a> at Utrecht University. I have also worked as Data Analysis Research Assistant for <a href="https://www.clariah.nl">CLARIAH</a> and the <a href="https://sites.bu.edu/pamlab/">PAMLab</a> at Boston University, during my stay as a <a href="https://fulbrightscholars.org">Fulbright scholar</a>. My main areas of interest are: Natural Language Processing, Generative AI, Conversational AI and Machine Learning.</p>
 
-<p>When I’m not working, I like to read, travel, play videogames, and do Pilates.</p>
+<p>When I’m not working, I like to read, travel, play videogames or boardgames, and do Pilates.</p>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
