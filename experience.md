@@ -21,7 +21,7 @@ Here is a list of my relevant work experience:
 
 ### AI & Data Science Intern  
 **TNO**  
-*Randstad, Netherlands*  
+*The Hague, Netherlands*  
 *Jan. 2024 – Sept. 2024*  
 - Created a natural conversational agent for the healthcare domain by researching the effect of empathetic language usage in the agent.
 - Evaluated LLMs with a Chain‐of‐Thought prompting framework and medical datasets.
