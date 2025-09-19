@@ -1,12 +1,26 @@
 ---
 layout: page
-title: Presentations
+title: Research
 ---
 
-Here is a list of my oral and poster presentations:
+Here is a list of my publications and presentations. You can also see my <a href="https://www.researchgate.net/profile/Cristina-Reguera-Gomez-2" target="_blank">ResearchGate profile</a>.
 <br />
 
-**Talks**
+## **Publications**
+
+- **Empathy vs Neutrality: Designing and Evaluating a Natural Chatbot for the Healthcare Domain.**  
+    **Reguera-Gómez, C.**, de Boer, M.H.T. & Paperno, D. (2025).
+    *Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025).*  
+    <span style="padding-left: 2em;">[Paper](https://aclanthology.org/2025.nodalida-1.55/)</span>
+
+- **The Effect of Stress on the Dissimilation of the Spanish Copulative Conjunction.**  
+    **Reguera-Gómez, C.** (2023).
+    *LingUU Journal, 7(1).*  
+    <span style="padding-left: 2em;">[Paper](https://linguujournal.nl/download/the-effect-of-stress-on-the-dissimilation-of-the-spanish-copulative-conjunction/)</span>
+
+## **Presentations**
+
+### **Talks**
 
 - **Shedding Light on Linguistic Shadows: A Cross-Lingual experiment on the Transparency of Nominal Compounds in Large Language Models.**  
   Zgreabăn, M., Stasica, A., **Reguera-Gómez, C.**, & Paperno, D.  
@@ -15,27 +29,27 @@ Here is a list of my oral and poster presentations:
 
 - **LIDIA: A Database for Linguistic Diagnostics.**  
   Vinke, J., Archimandriti, S., **Reguera-Gómez, C.**, Baarda, T. & Mossel, A.  
-  *Dutch Annual Linguistics Day 2024 (Grote Taaldag 2024)*  
+  *Dutch Annual Linguistics Day 2024 (Grote Taaldag 2024).*  
   2nd February 2024.
 
 - **Deviating from the Standard: Evaluating Google Cloud Speech-to-Text API’s Recognition of Rural Spanish Speech.**  
   **Reguera-Gómez, C.**  
-  *MLLI Research Day of the University of Maryland, Baltimore County*  
+  *MLLI Research Day of the University of Maryland, Baltimore County.*  
   17th November 2023.
 
 - **Extracting Scenario Knowledge in LLMs: A Case Study with ChatGPT in English and Spanish.**  
   **Reguera-Gómez, C.** & Brandsen, M.  
-  *74th Student Conference on Linguistics (StuTS, Studentische Tagung Sprachwissenschaft)*  
+  *74th Student Conference on Linguistics (StuTS, Studentische Tagung Sprachwissenschaft).*  
   27th October 2023.
 
 - **An Exploration of Translanguaging on Social Media by Hispanic International Students in the United States.**  
   **Reguera-Gómez, C.**  
-  *32nd Computational Linguistics Student Conference (TaCoS, Tagung der Computerlinguistik-Studierenden)*  
+  *32nd Computational Linguistics Student Conference (TaCoS, Tagung der Computerlinguistik-Studierenden).*  
   29th June 2023.
 
 - **An Exploration of how Spanish Children Acquire the Semantic Diference Between Ser and Estar.**  
   **Reguera-Gómez, C.**  
-  *GSLING’s Spring 2023 Student Research Symposium of the University of South Carolina*  
+  *GSLING’s Spring 2023 Student Research Symposium of the University of South Carolina.*  
   8th April 2023.
 
 - **Discourse Analysis on Social Media of Spanish-Speaking International Students in American Universities.**  
@@ -64,16 +78,16 @@ Here is a list of my oral and poster presentations:
   17th-18th May 2019.
 
 
-**Posters**
+### **Posters**
 
 - **Empathy vs Neutrality: Designing and Evaluating a Natural Chatbot for the Healthcare Domain.**  
   **Reguera-Gómez, C.**, de Boer, M.H.T. & Paperno, D.  
-  *Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)*  
+  *Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025).*  
   3rd March 2025.
 
 - **Natural Chatbots: Designing an Intuitive Healthcare Conversational Agent by Studying the Role of Empathy in Generated Messages.**  
   **Reguera-Gómez, C.**, de Boer, M.H.T. & Paperno, D.  
-  *34rd Meeting of Computational Linguistics in the Netherlands (CLIN)*  
+  *34rd Meeting of Computational Linguistics in the Netherlands (CLIN).*  
   30th August 2024.
 
 - **Developing a User-Friendly Healthcare Chatbot.**  
@@ -83,7 +97,7 @@ Here is a list of my oral and poster presentations:
 
 - **LIDIA: Linguistic Diagnostics Database.**  
   Baarda, T., Mossel, A., Vinke, J., **Reguera-Gómez, C.**, Archimandriti, S., & Odijk, J.  
-  *CLARIAH Conference 2024*  
+  *CLARIAH Conference 2024.*  
   13th June 2024.
 
 - **When Good is not that Good: Exploring Scalar Implicatures in the Context of Face-Threatening Acts.**  
@@ -120,4 +134,25 @@ Here is a list of my oral and poster presentations:
   **Reguera-Gómez, C.**  
   *14th Graduate Portuguese and Hispanic Symposium (GRAPHSY) of Georgetown University.*  
   18th February 2022.
+
+<!-- 
+**Non-refereed project reports:**
+
+- **Desh Raj**. *Semi-implicit variational inference for unsupervised acoustic unit discovery*.
+    [PDF](/static/report/aud.pdf){: .btn}
+- Tara Abrishami, **Desh Raj**, Noah Scribner, Vasileios Papaioannou. *Inference on Ohio redistricting maps from
+Congressional 2016 elections*.
+    [PDF](/static/report/ohio.pdf){: .btn}
+- **Desh Raj**. *Estimating bounds for bit-truncated word embeddings*.
+    [PDF](/static/report/bounds.pdf){: .btn}
+- Venkat Arun, **Desh Raj**, Mrinal Tak, Sumeet Ranka. *Fine-grained readability estimation using language modeling*.
+    [PDF](/static/report/readability.pdf){: .btn}
+- **Desh Raj**, Kanhaiya Rathi. *A survey of probabilistic databases*. 
+    [PDF](/static/report/dbms-survery.pdf){: .btn}
+- **Desh Raj**, Abhilasha Sancheti, Mrinal Tak, Kunaal Jain. *Monitoring production line performance to reduce manufacturing failures*.
+    [PDF](/static/report/bosch.pdf){: .btn}
+- **Desh Raj**, Sumeet Ranka, Siddharth Kumar, Akashdeep Goswami, Samyak Kumbhalwar. *Spatial transformer networks*.
+    [PDF](/static/report/stn.pdf){: .btn}
+
+<br />  -->
 

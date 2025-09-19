@@ -4,15 +4,18 @@ title: Experience
 use-site-title: true
 ---
 
-Here is a list of my relevant work experience:
+Here is a list of my relevant work experience and projects. You can also see my <a href="https://github.com/linguistcrg" target="_blank">GitHub profile</a>.
 <br />
+
+## Work Experience
 
 ### AI Engineer
 **Rabobank**  
 *Utrecht, Netherlands*  
 *Oct. 2024 – Present*  
-- Integrating fallback mechanisms and Retrieval‑Augmented Generation (RAG) to customer service LLM to ensure factual accuracy and mitigate hallucinations.
-- Transitioning Rabobank’s customer support chatbot from rule‑based system to GenAI architecture using LLMs.
+- Transitioning Rabobank’s customer support chatbot from rule-based system to GenAI architecture using LLMs.
+- Integrating fallback mechanisms and Retrieval-Augmented Generation (RAG) to customer service LLM to ensure
+factual accuracy and mitigate hallucinations.
 - Performing evaluations for accuracy, safety, and compliance in the banking context using internal datasets.
 - Improving critical production models through CI/CD methodology to avoid downtime.
 - **Achieved:** Transitioned customer service chatbot to near 100% GenAI answers. 80% of GenAI answers achieved a perfect score according to human evaluators, and 0% harmful answers were generated.
@@ -20,13 +23,13 @@ Here is a list of my relevant work experience:
 
 
 ### AI & Data Science Intern  
-**TNO**  
+**Netherlands Organisation for Applied Scientific Research (TNO)**  
 *The Hague, Netherlands*  
 *Jan. 2024 – Sept. 2024*  
 - Created a natural conversational agent for the healthcare domain by researching the effect of empathetic language usage in the agent.
-- Evaluated LLMs with a Chain‐of‐Thought prompting framework and medical datasets.
-- Built an LLM‐powered chatbot and evaluated its usability with a user experiment.
-- **Achieved:** Implemented a part of the Docker container (response generator) in the CHIP project (diabetes management chatbot), as part of TNO’s Hybrid AI team. Resulting project published in peer‑reviewed journal.
+- Evaluated LLMs with a Chain-of-Thought prompting framework and medical datasets.
+- Built an LLM-powered chatbot and evaluated its usability with a user experiment.
+- **Achieved:** Project published in the ACL Anthology (https://aclanthology.org/2025.nodalida-1.55).
 
 
 
@@ -56,3 +59,25 @@ Here is a list of my relevant work experience:
 *May 2021 – May 2022*  
 - Analyzed phonetic features of the Asian American community in Boston with Praat.
 - **Achieved:** Identified significant phonetic patterns that contributed to two research papers: [Chang & Fraser (2023)](https://doi.org/10.3765/plsa.v8i1.5558), and [Chang & Dione (2022)](https://doi.org/10.1121/2.0001669).
+
+## Projects
+
+### SafePath
+**Community-driven urban pathfinding app**  
+*Python, SQL, Streamlit*  
+*Jun. 2024*  
+- Developed a full-stack web application designed to enhance personal safety for women in Amsterdam by providing
+safer, community-reviewed walking routes.
+- Used Streamlit to create the application and DuckDB for storing and querying safety data in SQL format.
+- App developed for The DuckDB Challenge at Hack4her 2024.
+
+
+
+### CHIP Modular System
+**Healthcare knowledge-graph LLM agent**  
+*Python, Docker*  
+*May 2024 – Jun. 2024*  
+- Implemented the Response Generator module in the CHIP system for lifestyle support in Type 2 Diabetes cases.
+- Used Docker Compose to ensure compatibility with CHIP’s dockerised microservice architecture and integration
+with upstream reasoning modules.
+- Collaborated with researchers from The Hybrid Intelligence Centre.
